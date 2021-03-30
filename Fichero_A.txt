@@ -1,1 +1,3 @@
 Contenido fichero A.
+
+MODIFICADO DE NUEVO y otra vez.
